@@ -1,0 +1,3 @@
+uint8 camera_zoom
+uint8 camera_focus
+uint8 camera_bright

@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/ros_catkin_ws_rov/devel
+
+Name: rov_rosbridge_pkg
+Description: Description of rov_rosbridge_pkg
+Version: 0.0.0
+Cflags: -I/home/ubuntu/ros_catkin_ws_rov/devel/include -I/home/ubuntu/ros_catkin_ws_rov/src/rov_rosbridge_pkg/include
+Libs: -L/home/ubuntu/ros_catkin_ws_rov/devel/lib -lrov_rosbridge_pkg
+Requires: roscpp rospy std_msgs message_runtime

@@ -1,0 +1,3 @@
+uint8 robot_arm_open
+uint8 robot_arm_close
+uint8 robot_arm_stop

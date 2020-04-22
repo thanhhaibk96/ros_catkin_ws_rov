@@ -1,0 +1,2 @@
+rov_camera_pkg:rov_canbus_pkg:rov_rosbridge_pkg:rov_serial_pkg
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/ros_catkin_ws_rov/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/ros_catkin_ws_rov/install -G Unix Makefiles

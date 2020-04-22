@@ -1,0 +1,1 @@
+m_setup_camera camera

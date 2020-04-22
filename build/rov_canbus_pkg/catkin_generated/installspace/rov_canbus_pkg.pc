@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/ros_catkin_ws_rov/install
+
+Name: rov_canbus_pkg
+Description: Description of rov_canbus_pkg
+Version: 0.0.0
+Cflags: -I/home/ubuntu/ros_catkin_ws_rov/install/include
+Libs: -L/home/ubuntu/ros_catkin_ws_rov/install/lib 
+Requires: message_runtime socketcan_interface roscpp rospy std_msgs

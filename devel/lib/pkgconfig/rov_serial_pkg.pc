@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/ros_catkin_ws_rov/devel
+
+Name: rov_serial_pkg
+Description: Description of rov_serial_pkg
+Version: 0.0.0
+Cflags: -I/home/ubuntu/ros_catkin_ws_rov/devel/include
+Libs: -L/home/ubuntu/ros_catkin_ws_rov/devel/lib 
+Requires: roscpp rospy serial std_msgs message_runtime
